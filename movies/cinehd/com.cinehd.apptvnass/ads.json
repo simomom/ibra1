@@ -1,11 +1,11 @@
 {
   "App": {
     "source": "2,1",
-    "ShowEvents": true,
-    "ShowChannels": true,
+    "ShowEvents": false,
+    "ShowChannels": false,
     "backupserver": "3",
     "source_channels": "2",
-    "AllowMoviesAndSeriesToPlay": true
+    "AllowMoviesAndSeriesToPlay": false
   },
   "Player": {
     "PlayIn": "app",
