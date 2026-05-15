@@ -8,7 +8,7 @@
     "AllowMoviesAndSeriesToPlay": true
   },
   "Player": {
-    "PlayIn": "player",
+    "PlayIn": "app",
     "PlayerIcon": "https://m.media-amazon.com/images/I/81SZr11zzOL.png",
     "PlayerLink": "https://www.amazon.com/ALL-Wallpaper-Lightplayer/dp/B0FR6LS9YQ",
     "PlayerPackage": "com.smartflix.proplayer"
